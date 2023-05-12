@@ -1,6 +1,7 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/
+[![Header](https://github.com/OdomBrandon2324/OdomBrandon2324/blob/12ebc55335e525359dfc086748893abd77c6a692/finan-akbar-HuC3cii5VA8-unsplash.jpg "Header")](https://some-url.dev/)
 
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 
 **OdomBrandon2324/OdomBrandon2324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OdomBrandon2324&show_icons=true&theme=radical)](https://github.com/OdomBrandon2324/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OdomBrandon2324&layout=compact)](https://github.com/OdomBrandon2324/github-readme-stats)
+
 
