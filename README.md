@@ -8,13 +8,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brandon Odom
 ====================================================================================================================================
 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brandon Odom
+====================================================================================================================================
+
 Software Developer
 ------------------
 
 👋 Hey there! Welcome to my GitHub profile! 👨‍💻 I'm a passionate software developer on a mission to bring empathy and creativity to the world of code. Graduating from a rigorous bootcamp that equipped me with essential tools and skills, I am now ready to make a meaningful impact in the tech field. With a strong desire to continuously grow and expand my comprehension, I'm always up for new challenges and eager to learn cutting-edge technologies. Coding isn't just a job for me; it's my true passion, and I'm thrilled to channel that passion into building innovative solutions that make a difference. Before embarking on this exciting journey as a developer, I had the privilege of serving as an Armed Security Guard. This experience has contributed to my unique perspective and problem-solving skills. As a result, I bring a blend of discipline, adaptability, and attention to detail to my work as a developer. I believe that the most successful software solutions are those that empathize with users and address their needs effectively. With a keen eye for user experience and a deep understanding of human behavior, I strive to create intuitive and user-centric applications that leave a lasting impact. Collaboration is at the core of my approach, and I thrive in diverse teams where I can share ideas, learn from others, and collectively create outstanding software. I'm excited to connect with recruiters and industry professionals who are as passionate about innovation as I am. If you're looking for a dedicated software developer who brings a unique blend of empathy, problem-solving skills, and a burning desire to grow in the tech field, then let's connect! Together, we can build remarkable software that transforms lives. Feel free to explore my projects and repositories below. Let's create something amazing together! ✨
 
 *   🌍  I'm based in California
-*   ✉️  You can contact me at [Brandonodom1122@gmail.com](mailto:Brandonodom1122@gmail.com)### Skills 
+*   ✉️  You can contact me at [Brandonodom1122@gmail.com](mailto:Brandonodom1122@gmail.com)<a href="https://www.github.com/OdomBrandon2324" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/OdomBrandon2324?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -42,8 +46,8 @@ Software Developer
                           
                       <a href="https://www.github.com/OdomBrandon2324" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/brandon-odom-715660270/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OdomBrandon2324&show_icons=true&theme=radical)](https://github.com/OdomBrandon2324/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OdomBrandon2324&layout=compact)](https://github.com/OdomBrandon2324/github-readme-stats)
-
-
+                      <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/brandon-odom-715660270/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/OdomBrandon2324"><img src="https://github-readme-stats.vercel.app/api?username=OdomBrandon2324&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="OdomBrandon2324's GitHub stats" /></a><a
+                      href="http://www.github.com/OdomBrandon2324"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=OdomBrandon2324&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
+                      href="http://www.github.com/OdomBrandon2324"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=OdomBrandon2324&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/OdomBrandon2324" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdomBrandon2324&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
